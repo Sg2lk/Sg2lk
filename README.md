@@ -6,7 +6,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Sg2lk&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Sg2lk's Stats">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sg2lk&theme=tokyonight&hide_border=false" alt="Sg2lk's Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sg2lk&theme=tokyonight&hide_border=true" alt="Sg2lk's Streak">
     </td>
   </tr>
 </table>
