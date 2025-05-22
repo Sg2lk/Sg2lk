@@ -16,7 +16,7 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="50px" fill="#161b22" rx="15"/>
-<text x="490" y="130" fill="#c9d1d9">
+<text x="40" y="130" fill="#c9d1d9">
 <tspan x="490" y="25">Mi portafolio</tspan>
 </text>
 </svg>
