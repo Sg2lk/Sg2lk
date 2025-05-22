@@ -5,4 +5,4 @@
 
 [![Mi Portafolio](https://raw.githubusercontent.com/Sg2lk/Sg2lk/main/portafolio.svg)](https://portafoliogood.web.app)
 
-<img src="./assets/city.gif" alt="Loading" width="300">
+<img src="./assets/city.gif" alt="Loading" width="900">
