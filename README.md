@@ -4,3 +4,5 @@
 |---|---|
 
 [![Mi Portafolio](https://raw.githubusercontent.com/Sg2lk/Sg2lk/main/portafolio.svg)](https://portafoliogood.web.app)
+
+![My city](assets/city.gif)
